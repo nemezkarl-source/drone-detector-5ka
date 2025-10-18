@@ -11,7 +11,7 @@
 - **Плата:** Raspberry Pi 5 (Debian 12 Bookworm, aarch64, ядро 6.12.47+rpt-rpi-2712)  
 - **AI-модуль:** Hailo-8 PCIe (Waveshare, rev 01)  
 - **Камера:** Raspberry Pi AI Camera Sony IMX500 (4056×3040 10-bit RGGB)  
-- **Сеть:** Wi-Fi TP-Link_D265_5G / 58338933  
+- **Сеть:** Wi-Fi TP-Link 
 - **GPIO:** пин 17 — LED-индикатор  
 - **Рабочая станция:** MacBook (Pro) → SSH к pi-drone  
 
